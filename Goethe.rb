@@ -9,4 +9,4 @@ Perucas podes ter, com louros aos milhões.
 Alçar-te com teus pés nos mais altos tacões, 
 Serás sempre o que és: um pobre ser mortal!"
 
-puts "Goethe"
+puts "Goethe, maior escritor de todos os tempos"
